@@ -4,6 +4,8 @@ My first project Libft at School 21 in Kazan. I also added my fourth project (ge
 
 ⭐ The [link](https://drive.google.com/file/d/1p7UzFkzZIeNiSpDm0HbemQpgi73Er0Jo/view?usp=sharing) to the description of the Libft project.
 
- ⭐ The [link](https://drive.google.com/file/d/1kxCXgbmTV9qAzu6SZsef5EA9yYNUmqSY/view?usp=sharing) to the description of the GNL project.
+⭐ The [link](https://drive.google.com/file/d/1kxCXgbmTV9qAzu6SZsef5EA9yYNUmqSY/view?usp=sharing) to the description of the GNL project.
 
-⭐ My points for the Libft and GNL projects (I did bonuses for GNL, but I only added GNL without bonuses to this repo):
+⭐ My points for the Libft project:
+
+![alt: my-points](https://github.com/justannakuznetsova/School-21-Libft-with-GNL-Project/blob/main/Additional-files-for-the-project/Points-for-the-project.png)

@@ -1,6 +1,6 @@
-# School-21-Libft-with-GNL-Project
+# Ecole-42-Libft-with-GNL-Project
 
-My first project Libft at School 21 in Kazan. I also added my fourth project (get_next_line) to the library.
+My first project Libft at L'ecole 42. I also added my fourth project (get_next_line) to the library.
 
 ⭐ The [link](https://drive.google.com/file/d/1p7UzFkzZIeNiSpDm0HbemQpgi73Er0Jo/view?usp=sharing) to the description of the Libft project.
 
@@ -8,4 +8,4 @@ My first project Libft at School 21 in Kazan. I also added my fourth project (ge
 
 ⭐ My points for the Libft project:
 
-![alt: my-points](https://github.com/justannakuznetsova/School-21-Libft-with-GNL-Project/blob/main/Additional-files-for-the-project/Points-for-the-project.png)
+![alt: my-points](https://github.com/web3czar/School-21-Libft-with-GNL-Project/blob/main/Additional-files-for-the-project/Points-for-the-project.png)
